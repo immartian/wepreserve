@@ -1,0 +1,198 @@
+{
+  "roots": [
+    {
+      "key": "pfy4h1nwep9age7eg0u8xe1",
+      "title": "SHKO(Save Hong Kong Online)",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "fzfda8r3h330gsr6wg5db9w",
+          "title": "Background",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "wx39zljncctue32jn06u29u",
+          "title": "Collections",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "lu2l12dvswb0hkg33eojaxb",
+              "title": "Apple Daily 蘋果日報",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "bv9b47vi18jr87xi5uiy48g",
+              "title": "Citizen News(眾新聞)",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "sodcv3bncb45c0k22bnejp4",
+              "title": "Cusu",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "5iom2ypahedhsabpx592itb",
+              "title": "Factwire",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "p9yv8nnjdb90urz9yk1i7f4",
+              "title": "Guhkst",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "q92a5qq2k5wjgvijf577o34",
+              "title": "Hk Feature",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "nkaza0o35rwokugfvcltlgz",
+              "title": "Hka",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "07g154bwuvdu1anxzudmd3m",
+              "title": "Hkctu",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "9iipol69duybct6ip77f31w",
+              "title": "Hong Kong Free Press",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "fa4wnbx592ldn2ymb87u7hd",
+              "title": "Hong Kong Public Opinion Research Institute",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "b3gelsp88whuvuotw9f03xs",
+              "title": "Hong Kong Watch",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "jriy4sb0p5rbt5wxyulvonx",
+              "title": "Inmediahk 獨立媒體",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "33ntwiqahd4qwoaeecdn9af",
+              "title": "Post852",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "q6ovd682gm79nej500y0bv3",
+              "title": "Stand News (立場新聞)",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "egsgjuufo34m4r1084rstob",
+              "title": "The Hong Kong Journalists Association",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "iu6nr9qel896bjhbckfl05d",
+          "title": "How To Archive and Replay",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "vzihkvznemcaaef2br0s1co",
+          "title": "Participation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "brr1zrug1jl02gi80d1dv8c",
+          "title": "Sponsorship",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "pfy4h1nwep9age7eg0u8xe1": null,
+    "brr1zrug1jl02gi80d1dv8c": "pfy4h1nwep9age7eg0u8xe1",
+    "wx39zljncctue32jn06u29u": "pfy4h1nwep9age7eg0u8xe1",
+    "q6ovd682gm79nej500y0bv3": "wx39zljncctue32jn06u29u",
+    "33ntwiqahd4qwoaeecdn9af": "wx39zljncctue32jn06u29u",
+    "fa4wnbx592ldn2ymb87u7hd": "wx39zljncctue32jn06u29u",
+    "jriy4sb0p5rbt5wxyulvonx": "wx39zljncctue32jn06u29u",
+    "b3gelsp88whuvuotw9f03xs": "wx39zljncctue32jn06u29u",
+    "egsgjuufo34m4r1084rstob": "wx39zljncctue32jn06u29u",
+    "9iipol69duybct6ip77f31w": "wx39zljncctue32jn06u29u",
+    "q92a5qq2k5wjgvijf577o34": "wx39zljncctue32jn06u29u",
+    "07g154bwuvdu1anxzudmd3m": "wx39zljncctue32jn06u29u",
+    "bv9b47vi18jr87xi5uiy48g": "wx39zljncctue32jn06u29u",
+    "nkaza0o35rwokugfvcltlgz": "wx39zljncctue32jn06u29u",
+    "p9yv8nnjdb90urz9yk1i7f4": "wx39zljncctue32jn06u29u",
+    "5iom2ypahedhsabpx592itb": "wx39zljncctue32jn06u29u",
+    "sodcv3bncb45c0k22bnejp4": "wx39zljncctue32jn06u29u",
+    "lu2l12dvswb0hkg33eojaxb": "wx39zljncctue32jn06u29u",
+    "vzihkvznemcaaef2br0s1co": "pfy4h1nwep9age7eg0u8xe1",
+    "iu6nr9qel896bjhbckfl05d": "pfy4h1nwep9age7eg0u8xe1",
+    "fzfda8r3h330gsr6wg5db9w": "pfy4h1nwep9age7eg0u8xe1"
+  }
+}
